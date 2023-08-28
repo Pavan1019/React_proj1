@@ -1,1 +1,2 @@
-# React_proj1
+  # React_proj1
+  <h1>Sample project</h1>
